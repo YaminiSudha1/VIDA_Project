@@ -5,7 +5,7 @@
 [TestPom.zip](https://github.com/YaminiSudha1/VIDA_Project/files/6115949/TestPom.zip)
 
 
-Please download teh zip file.
+Please download the zip file "TestPom.zip".
 
 Web TAsk
 
